@@ -7,6 +7,6 @@ public class TestController {
 
 	@GetMapping("/Hello")
 	public String hello() {
-		return "Hello,Aws! SSH! CI/CD!!!";
+		return "Hello,Aws! SSH! CI/CD!!! LoCAL SSH" ;
 			}
 }
